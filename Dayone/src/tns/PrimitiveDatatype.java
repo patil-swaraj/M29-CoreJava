@@ -14,7 +14,7 @@ public class PrimitiveDatatype {
 		System.out.println(var1);
 		System.out.println(var2);
 		System.out.println(flag);
-
+//Hi
 	}
 
 }
