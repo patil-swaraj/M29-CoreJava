@@ -12,7 +12,6 @@ public class Datatypedemo {
 		System.out.println("value is:"+num2);
 		System.out.println("value is:"+num3);
 		System.out.println("value is:"+num4);
-//Hi
 	}
 
 }
