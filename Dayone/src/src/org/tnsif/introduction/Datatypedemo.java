@@ -1,4 +1,4 @@
-package tns;
+package src.org.tnsif.introduction;
 
 public class Datatypedemo {
 

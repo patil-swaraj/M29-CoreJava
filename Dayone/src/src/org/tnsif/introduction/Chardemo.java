@@ -1,11 +1,11 @@
-package tns;
+package src.org.tnsif.introduction;
 
 public class Chardemo {
 
 	public static void main(String[] args) {
 		char ch='a';
 		System.out.println(ch);
-		//assign number to character
+		//asssign number to character
 		char ch1=70;
 		System.out.println(ch1);
 		//assign unicode to character
